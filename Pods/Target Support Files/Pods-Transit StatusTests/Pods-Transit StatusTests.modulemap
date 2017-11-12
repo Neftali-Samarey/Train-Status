@@ -1,0 +1,6 @@
+framework module Pods_Transit_StatusTests {
+  umbrella header "Pods-Transit StatusTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
